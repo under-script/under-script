@@ -5,9 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=under-script&label=Profile%20views&color=0e75b6&style=flat" alt="under-script" />
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/under-script/LeetCodes"> LeetCode
-  problems</a>, <a href="https://github.com/ShohjahonObruyevOybekovich/Library_Project"> Library Project</a>
-
 - 🌱 I’m currently learning **Django Rest Framework**
 
 - 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, Redis, Celery, Postgresql**
