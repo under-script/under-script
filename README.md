@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulmajid</h1>
 <h3 align="center">A passionate python backend developer from Uzbekistan</h3>
 <p align="center">
-<a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
+<a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=under-script&label=Profile%20views&color=0e75b6&style=flat" alt="under-script" />
 </p>
 
