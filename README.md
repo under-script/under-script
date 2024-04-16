@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python developer from Uzbekistan</h3>
 
 <p align="center">
-<a href="https://wakatime.com/@018dcd1a-4734-4964-965b-f0a608c3d37f"><img src="https://wakatime.com/badge/user/018dcd1a-4734-4964-965b-f0a608c3d37f.svg" alt="Total time coded since Feb 22 2024" /></a>
+<a href="https://wakatime.com/@018dcd1a-4734-4964-965b-f0a608c3d37f](https://wakatime.com/@underscript"><img src="https://wakatime.com/badge/user/018dcd1a-4734-4964-965b-f0a608c3d37f.svg" alt="Total time coded since Feb 22 2024" /></a>
 <img src="https://komarev.com/ghpvc/?username=under-script&label=Profile%20views&color=0e75b6&style=flat" alt="under-script" />
 </p>
 
