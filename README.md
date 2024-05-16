@@ -1,62 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdulmajid</h1>
-<h3 align="center">A passionate python backend developer from Uzbekistan</h3>
+## Introduction
 <p align="center">
-<a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
-<img src="https://komarev.com/ghpvc/?username=under-script&label=Profile%20views&color=0e75b6&style=flat" alt="under-script" />
+<img src="https://readme-typing-svg.demolab.com/?lines=1%20year%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-- 🌱 I’m currently learning **Django Rest Framework**
-
-- 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, Redis, Celery, Postgresql**
-
-- 📫 To reach me **https://t.me/toEpamMiddle**
-
-# 💻 Tech Stack:
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-# 📊 GitHub Stats:
+<h3 align="center">Hey there 👋, I'm <a href="https://t.me/toEpamMiddle">Abdulmajid</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=under-script&theme=radical">
-<br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=under-script&theme=tokyonight">
-<br/>
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@FreeCoreUz"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/under-script?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/under-script?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/under-script"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/under-script?color=236ad3&style=for-the-badge&logo=github&label=Followers"/></a>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=under-script&theme=tokyonight&hide_border=true" alt="under-script****">
+ </p>
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=under-script&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+      <th>Hours Week</th>
+    </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/under-script"> <img src="https://komarev.com/ghpvc/?username=under-script&style=for-the-badge&color=brightgreen"> </a>
+</td>
+    <td>
+        <a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
+</td>
+    </tr>
+  </table>
+
+[//]: # (## Top Sponsors)
+
+[//]: # (**1. phuuthanh2003 &#40;$12 per year&#41;**)
+
+[//]: # ()
+[//]: # (**2. gmanasian23 &#40;$10 one time&#41;**)
+
+   <a href="https://github.com/sponsors/under-script"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+
+## What I'm Doing
+
+- 🔭 Working on Backend Development
+- 🌱 Learning FastAPI & more
+- 📫 How to contact me: under-script (Discord)
+
+## Languages and Tools
+
+### Currently using: <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,django,pycharm,sqlite,notion,md,githubactions,discord,ubuntu"> </a> </p>
+### Also will use soon <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=postgres,bots,redis,aws,nginx,postman,fastapi,stackoverflow,linkedin,javascript,instagram,html,css,grafana,gmail,gitlab,flask,cloudflare,devto,elasticsearch,vercel,"> </a> </p>
+### Have used already <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=vscode,vim,webstorm,kali,windows,obsidian,yarn,vite,ts,threejs,tailwindcss,rust,react,npm,netlify,mongodb,heroku,graphql,gmail,gitlab,flask,firebase,debian,blender,bash,astro,codepen"> </a> </p>
+### Want to try <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=redux,flutter,arch,anaconda,dart"> </a> </p>
+
+## My Stats:
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=under-script&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=under-script&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=under-script&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
-<br/>
 
-j<img src="https://wakatime.com/share/@underscript/97da3c35-da41-4725-b103-a98e46a0b0ac.svg">
-j<img src="https://wakatime.com/share/@underscript/8f36afec-8267-4a53-92ef-d596402af4de.svg">
-j<img src="https://wakatime.com/share/@underscript/77957021-c790-44bf-94b5-8e67d3118d2c.svg">
-j<img src="https://wakatime.com/share/@underscript/d61016d6-311a-47e2-964c-d8ca823fc708.svg">
-j<img src="https://wakatime.com/share/@underscript/5d30767c-2781-434e-b7c5-877eb443b8ff.svg">
-j<img src="https://wakatime.com/share/@underscript/e3fede1b-a756-494d-bdfd-c7041bb02c69.svg">
-j<img src="https://wakatime.com/share/@underscript/57e66ce6-7842-4b9b-aa96-7e0222cb1731.svg">
-j<img src="https://wakatime.com/share/@underscript/47ae037b-d828-43b8-a3f8-8fe892151561.svg">
-j<img src="https://wakatime.com/share/@underscript/a83fbed7-6145-43c0-83fa-713a0d4d0039.svg">
-j<img src="https://wakatime.com/share/@underscript/70e31743-eadb-4aad-96cc-43b673d580ad.svg">
-j<img src="https://wakatime.com/share/@underscript/c88abeb6-197a-4925-a0e5-cf8e40812dff.svg">
-j<img src="https://wakatime.com/share/@underscript/fc462b5d-1d80-4085-bfdb-2dfdf587a19b.svg">
-j<img src="https://wakatime.com/share/@underscript/45e69e23-e1a6-4a23-8c39-5201571885b8.svg">
-j<img src="https://wakatime.com/share/@underscript/b3b5c386-f79e-48af-a3dd-6019699f1764.svg">
-j<img src="https://wakatime.com/share/@underscript/62b1727b-9ac7-49f2-9dd7-c0e5cf3a3797.svg">
-j<img src="https://wakatime.com/share/@underscript/065927ab-2c49-421b-ab43-09e733c21196.svg">
-j<img src="https://wakatime.com/share/@underscript/3b907884-5be6-4ac6-89b7-886566e75e01.svg">
-j<img src="https://wakatime.com/share/@underscript/31095c6c-138b-4755-af18-74fb22c47ce1.svg">
-j<img src="https://wakatime.com/share/@underscript/0ee3345c-c70b-42a9-8c2f-dd775d23ea27.svg">
-j<img src="https://wakatime.com/share/@underscript/5393ae72-5064-462d-8d66-5fb23471d397.svg">
-j<img src="https://wakatime.com/share/@underscript/51f8e728-0c0e-4d02-a9ac-b1daf65f8203.svg">
-j<img src="https://wakatime.com/share/@underscript/c43d317f-c5be-4fff-ad1e-8a9f44b5b465.svg">
-j<img src="https://wakatime.com/share/@underscript/4069e18d-c2c0-441e-8673-1f74aef5603a.svg">
-j<img src="https://wakatime.com/share/@underscript/972d6ded-8c90-4f62-87e9-adea510d00ea.svg">
-j<img src="https://wakatime.com/share/@underscript/9d27c159-8d2f-4a44-9af2-6735a78e5377.svg">
+[//]: # (## Top Respositorys)
 
-## 👁️ Number of visits:
+[//]: # (  <p align="left">)
 
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{under-script}/count.svg"/>
-</p>
+[//]: # (     <a href="https://github.com/under-script/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=under-script&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
+
+[//]: # (    <a href="https://github.com/under-script/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=under-script&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
+
+[//]: # (   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
+
+[//]: # (  </p>)
