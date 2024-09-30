@@ -32,27 +32,36 @@
     </tr>
   </table>
 
-[//]: # (## Top Sponsors)
-
-[//]: # (**1. phuuthanh2003 &#40;$12 per year&#41;**)
-
-[//]: # ()
-[//]: # (**2. gmanasian23 &#40;$10 one time&#41;**)
-
-   <a href="https://github.com/sponsors/under-script"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
-
 ## What I'm Doing
 
 - 🔭 Working on Backend Development
-- 🌱 Learning FastAPI & more
-- 📫 How to contact me: under-script (Discord)
+- 🌱 Learning DjangoRestFramework & more
+- 📫 How to contact me: @avengerdev (Telegram)
 
-## Languages and Tools
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=under-script&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=under-script&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=under-script&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=under-script&theme=2077&utcOffset=8)
 
-### Currently using: <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,django,pycharm,sqlite,notion,md,githubactions,discord,ubuntu"> </a> </p>
-### Also will use soon <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=postgres,bots,redis,aws,nginx,postman,fastapi,stackoverflow,linkedin,javascript,instagram,html,css,grafana,gmail,gitlab,flask,cloudflare,devto,elasticsearch,vercel,"> </a> </p>
-### Have used already <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=vscode,vim,webstorm,kali,windows,obsidian,yarn,vite,ts,threejs,tailwindcss,rust,react,npm,netlify,mongodb,heroku,graphql,gmail,gitlab,flask,firebase,debian,blender,bash,astro,codepen"> </a> </p>
-### Want to try <p align="left"> <a href="https://github.com/under-script"><img src="https://skillicons.dev/icons?i=redux,flutter,arch,anaconda,dart"> </a> </p>
+[//]: # (# 💻 Tech Stack:)
+
+[//]: # (![HTML5]&#40;https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&#41; ![CSS3]&#40;https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&#41; ![Bootstrap]&#40;https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&#41; ![Ant-Design]&#40;https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white&#41; ![JavaScript]&#40;https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&#41; ![TypeScript]&#40;https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&#41; ![Netlify]&#40;https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&#41; ![jQuery]&#40;https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&#41; ![NodeJS]&#40;https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&#41; ![React]&#40;https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&#41; ![SASS]&#40;https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&#41; ![MUI]&#40;https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white&#41; ![Meteor JS]&#40;https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white&#41; ![NPM]&#40;https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&#41; ![Yarn]&#40;https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&#41; ![TailwindCSS]&#40;https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&#41; ![Adobe Photoshop]&#40;https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&#41; ![Adobe XD]&#40;https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6&#41; 	![Figma]&#40;https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&#41; ![Canva]&#40;https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&#41; ![Dribbble]&#40;https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&#41; ![Notion]&#40;https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (### Skills)
+
+[//]: # ()
+[//]: # (<p align="left">)
+
+[//]: # (<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Socials)
+
+[//]: # ()
+[//]: # (<p align="left"> )
+
+[//]: # (<picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/under-script" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/muhammad_rasuljonov02" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="undefined" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Muhammad_2002" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Muhammad_4202" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>)
 
 ## My Stats:
 <p>
@@ -60,15 +69,3 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=under-script&theme=dark&hide_border=true&stroke=f53b3b"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=under-script&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
-[//]: # (## Top Respositorys)
-
-[//]: # (  <p align="left">)
-
-[//]: # (     <a href="https://github.com/under-script/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=under-script&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
-
-[//]: # (    <a href="https://github.com/under-script/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=under-script&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
-
-[//]: # (   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
-
-[//]: # (  </p>)
